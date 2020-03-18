@@ -1,0 +1,36 @@
+h1{
+color: Black;
+font-size: 90px;
+text-align: center;
+font-family: 'Courgette';
+margin: 30px;
+}
+
+body{
+  background-color: #393E46;
+
+}
+
+.Dice{
+  font-size: 45px;
+  font-family: "Indie Flower";
+  display:inline-block;
+}
+
+.container{
+  margin:auto;
+  text-align:center;
+  width:70%;
+}
+
+img{
+  width:80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
