@@ -1,0 +1,52 @@
+h1{
+color: Black;
+font-size: 90px;
+text-align: center;
+font-family: 'Courgette';
+margin: 30px;
+}
+
+body{
+  background-color: #393E46;
+
+}
+
+.Dice{
+  font-size: 45px;
+  font-family: "Indie Flower";
+  display:inline-block;
+}
+
+.container{
+  margin:auto;
+  text-align:center;
+  width:70%;
+}
+
+img{
+  width:80%;
+}
+
+footer {
+  margin-top: 50px;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.Roll{
+  position: absolute;
+  display:inline;
+  border: 3px solid #000000;
+  text-shadow: 2px #ff1e56;
+  text-align: center;
+  font-size:40px;
+  transform:translate(-45%);
+  box-shadow: 5px;
+}
+
+.Roll:active{
+
+  background-color: red;
+}
